@@ -1,0 +1,9 @@
+{ 
+	"applicationid":"Paste Your ApplicationID",
+ 	"name":"Right Something",
+ 	"details":"Right Details",
+ 	"state":"",
+ 	"imagename":"ac1",
+  "smallimgname": "ac2",
+ 	"type":"PLAYING"
+}
