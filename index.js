@@ -12,5 +12,4 @@ events.forEach(file => {
 	client.on(eventname, event.bind(null, client));
 });
 
-keepAlive();
-client.login(process.env.token);
+client.login("Paste Your Token In Here");
